@@ -31,6 +31,7 @@ button:hover {
     background-color: rgb(130, 130, 244);
     color: rgba(93, 93, 212, 0.725);
     box-shadow: 2px 2px rgb(74, 74, 140);
+    animation: pulse 5s infinite;
 }
 
 @keyframes pulse {
